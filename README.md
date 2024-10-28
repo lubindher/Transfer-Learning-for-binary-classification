@@ -174,7 +174,7 @@ zip_ref.extractall('/tmp/validation')
 zip_ref.close()
 
 model.summary()
-print("Name: DLubindher S  Reg No: 212222240056")
+print("Name: Lubindher S  Reg No: 212222240056")
 
 # Define our example directories and files
 train_dir = '/tmp/training'
